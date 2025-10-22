@@ -1,12 +1,6 @@
-echo "# 🧠 AI Interview Preparation Assistant
+ 🧠 AI Interview Preparation Assistant
 
 A resume-aware, role-specific interview simulator powered by local LLMs. Upload your resume, select a target role, and practice answering personalized questions with real-time feedback — all offline using TinyLlama via Ollama.
-
----
-
-## 🚀 Demo Preview
-
-![Demo Screenshot Placeholder](assets/demo_screenshot.png)
 
 ---
 
@@ -89,4 +83,4 @@ MIT License — free to use, modify, and share.
 
 ## 🙌 Credits
 
-Built by [Tharun Kumar](https://github.com/tharun0973) — AI Engineer & student founder, focused on recruiter-grade semantic pipelines and modular document workflows." > README.md && git add README.md && git commit -m "Add README with setup and project overview" && git push
+Built by [Tharun Kumar](https://github.com/tharun0973) — AI Engineer 
