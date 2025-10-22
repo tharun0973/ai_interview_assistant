@@ -25,25 +25,6 @@ A resume-aware, role-specific interview simulator powered by local LLMs. Upload 
 
 ---
 
-## 📁 Folder Structure
-
-\`\`\`
-ai_interview_assistant/
-├── app.py
-├── requirements.txt
-├── .gitignore
-├── utils/
-│   ├── resume_parser.py
-│   ├── question_generator.py
-│   ├── answer_evaluator.py
-├── assets/
-│   └── styles.css
-├── examples/
-│   └── sample_resume.pdf
-\`\`\`
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repo
@@ -84,3 +65,4 @@ MIT License — free to use, modify, and share.
 ## 🙌 Credits
 
 Built by [Tharun Kumar](https://github.com/tharun0973) — AI Engineer 
+
