@@ -1,0 +1,5 @@
+streamlit
+openai
+pdfplumber
+scikit-learn
+matplotlib
